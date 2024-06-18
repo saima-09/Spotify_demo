@@ -1,0 +1,10 @@
+
+.divi{
+    background-color: #8a4242;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
